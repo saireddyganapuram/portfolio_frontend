@@ -10,7 +10,7 @@ import OrganDonationPlatform from "../assets/organ.png";
 import AIagent from "../assets/aiagent.png";
 import CodeReviewer from "../assets/aireviewer.png";
 import AISummarizer from "../assets/aisummarizer.png";
-import SaiReddy from "../assets/image.png";
+import SaiReddy from "../assets/image1.png";
 import { TextureLoader } from "three";
 import * as THREE from "three";
 import { earthTextures } from "../assets/textures";
