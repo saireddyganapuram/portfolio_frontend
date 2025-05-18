@@ -722,7 +722,7 @@ animation: slideIn4 16s ease-in-out infinite;
             type: "spring",
             stiffness: 100,
           }}
-          className="container mx-auto flex flex-col md:flex-row items-center relative z-10"
+          className="container mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-center relative z-10"
         >
           <motion.div
             initial={{ x: -200, rotate: -5, opacity: 0 }}
@@ -733,7 +733,7 @@ animation: slideIn4 16s ease-in-out infinite;
               stiffness: 50,
               delay: 0.3,
             }}
-            className="w-full md:w-1/2 flex flex-col items-start space-y-4 sm:space-y-6"
+            className="w-full md:w-1/2 flex flex-col items-start space-y-4 sm:space-y-6 md:pl-8 lg:pl-12"
           >
             <motion.p
               initial={{ y: 30, opacity: 0 }}
