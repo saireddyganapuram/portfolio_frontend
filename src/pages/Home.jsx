@@ -923,8 +923,7 @@ animation: slideIn4 16s ease-in-out infinite;
           >
             <div className="w-full md:w-1/3 max-w-[300px] mx-auto">
               <div className="relative group">
-                <div className="absolute -inset-2 bg-gradient-to-r from-[#64FFDA] to-[#0A192F] rounded-lg blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
-                <div className="relative overflow-hidden rounded-lg">
+                <div className="relative overflow-hidden rounded-full border-2 border-[#64FFDA] border-solid">
                   <img
                     src={SaiReddy}
                     alt="Sai Reddy Ganapuram"
