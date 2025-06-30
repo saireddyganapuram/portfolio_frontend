@@ -789,7 +789,7 @@ animation: slideIn4 16s ease-in-out infinite;
                 options={{
                   strings: [
                     "Full Stack Developer",
-                    "Python Developer",
+                    "Python Programmer",
                     "DevOps Enthusiast",
                   ],
                   autoStart: true,
