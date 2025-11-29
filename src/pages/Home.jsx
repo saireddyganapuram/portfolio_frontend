@@ -602,7 +602,7 @@ animation: slideIn4 16s ease-in-out infinite;
       <nav className="fixed top-0 w-full bg-black/30 backdrop-blur-md z-50 border-b border-white/10">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <a href="#home" className="text-2xl font-bold text-[#64FFDA]">
-            Sai<span className="text-white">.dev</span>
+            <span className="text-white"></span>
           </a>
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">
@@ -1036,10 +1036,10 @@ animation: slideIn4 16s ease-in-out infinite;
                 {[
                   { name: "Git", icon: "ri-git-merge-fill" },
                   { name: "GitHub", icon: "ri-github-fill" },
+                  { name: "Linux", icon: "fas fa-linux" },
                   { name: "Docker", icon: "fab fa-docker" },
                   { name: "AWS", icon: "fab fa-aws" },
                   { name: "CI/CD", icon: "ri-loop-right-fill" },
-                  { name: "Jest", icon: "fas fa-vial" },
                 ].map((skill, index) => (
                   <div
                     key={index}
@@ -1121,9 +1121,7 @@ animation: slideIn4 16s ease-in-out infinite;
                   <p className="text-[#64FFDA] mb-2">Malla Reddy Engineering College</p>
                   <p className="text-gray-400 mb-4">2023 - 2027</p>
                   <p className="text-sm sm:text-base text-gray-300">
-                    Currently pursuing B.Tech in Information Technology. Focused on web development,
-                    artificial intelligence, and software engineering. Active participant in
-                    coding competitions and technical events.
+                    Currently pursuing B.Tech in Information Technology.
                   </p>
                 </div>
               </div>
@@ -1135,11 +1133,10 @@ animation: slideIn4 16s ease-in-out infinite;
                   <h3 className="text-lg sm:text-xl font-bold text-white">
                     Intermediate Education (MPC)
                   </h3>
-                  <p className="text-[#64FFDA] mb-2">TRRS & JC</p>
+                  <p className="text-[#64FFDA] mb-2">Telangana State Residential School & Junior College</p>
                   <p className="text-gray-400 mb-4">2021 - 2023</p>
                   <p className="text-sm sm:text-base text-gray-300">
                     Completed intermediate education with Mathematics, Physics, and Chemistry.
-                    Secured good academic performance and participated in various science exhibitions.
                   </p>
                 </div>
               </div>
@@ -1154,9 +1151,7 @@ animation: slideIn4 16s ease-in-out infinite;
                   <p className="text-[#64FFDA] mb-2">Zilla Parishath High School</p>
                   <p className="text-gray-400 mb-4">2020 - 2021</p>
                   <p className="text-sm sm:text-base text-gray-300">
-                    Completed 10th standard with distinction. Active participant in
-                    extracurricular activities and science competitions. Developed
-                    strong foundation in mathematics and science.
+                    Completed 10th standard with distinction.
                   </p>
                 </div>
               </div>
