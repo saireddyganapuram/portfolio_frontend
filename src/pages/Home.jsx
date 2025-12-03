@@ -934,25 +934,13 @@ animation: slideIn4 16s ease-in-out infinite;
             </div>
             <div className="w-full md:w-2/3">
               <p className="text-base sm:text-lg text-gray-300 mb-4 sm:mb-6">
-                Hi, I'm Sai Reddy Ganapuram — a passionate full-stack developer
-                with a strong focus on the MERN stack (MongoDB, Express.js,
-                React, Node.js) and Python. I began my development journey in
-                2023, and since then, I've been dedicated to building clean,
-                scalable, and high-performing web applications.
+                Hi, I'm Sai Reddy Ganapuram — I am a motivated and enthusiastic B.Tech student with a strong foundation in Information Technology, specializing in the MERN stack and DSA in Python. My learning journey has helped me build a solid understanding of both development principles and practical implementation.
               </p>
               <p className="text-base sm:text-lg text-gray-300 mb-4 sm:mb-6">
-                My skillset spans both frontend and backend development, and I
-                enjoy using Python for automation, scripting, and integrating
-                AI-driven features into modern applications. I'm also exploring
-                DevOps practices to streamline deployment workflows and ensure
-                smooth project scalability.
+                Over time, I have developed hands-on experience in building full-stack applications, automating workflows, and working with modern web technologies. Driven by curiosity, I am currently exploring DevOps to better understand how development and operations come together to create efficient, scalable systems.
               </p>
               <p className="text-base sm:text-lg text-gray-300 mb-4 sm:mb-6">
-                I'm constantly learning and experimenting with new technologies,
-                contributing to open-source projects, and sharing knowledge
-                through blogs and online communities. For me, coding is not just
-                a profession — it's a way to turn ideas into impactful digital
-                experiences.
+                I enjoy learning new tools, taking on challenges, and working in collaborative environments where I can grow and contribute meaningfully. I am now seeking opportunities to apply my skills, gain real-world experience, and advance toward becoming a capable full-stack and DevOps engineer.
               </p>
             </div>
           </div>
